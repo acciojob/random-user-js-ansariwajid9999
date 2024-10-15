@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+#ParaName{
+    font-size: 2rem;
+    font-weight: bold;
+}
+#displayInfo{
+    margin-bottom: 0;
+}
+.image{
+    display: block;
+    width: 200px;
+}
